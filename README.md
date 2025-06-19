@@ -1,4 +1,4 @@
-# Bike Sharing Data Analysis Dashboard 🚲
+# Bike Sharing Data Analysis Dashboard
 
 Dashboard ini merupakan bagian dari proyek analisis data untuk melihat pola peminjaman sepeda berdasarkan dataset `hour.csv`. Dashboard dibuat dengan Streamlit agar dapat menampilkan hasil analisis secara interaktif dan mudah dipahami.
 
